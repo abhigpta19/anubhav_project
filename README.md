@@ -40,6 +40,7 @@ anubhav_project/
 cd backend
 mvn clean install
 mvn spring-boot:run
+```
 
 
 ## 🧱 Frontend Setup (React JS)
@@ -53,4 +54,4 @@ mvn spring-boot:run
 cd frontend
 npm install
 npm run dev
-
+```
